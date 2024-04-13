@@ -9,7 +9,8 @@ Primer trabajo practico a entregar para el curso de Java de codo a codo.
 
 ### Link a la pagina del proyecto
 
-[Bemarking](https://bemarking.netlify.app/)
+[LINK NETFILY](https://ferreiro-cac-movies.netlify.app)
+[LINK GITHUB](https://ferreironicolas.github.io/TP1-front-Java-CAC/) (se ve solo el index)
 
 
 # Proyecto: Sitio web Marketing digital "Bemarking"
