@@ -7,10 +7,10 @@ Primer trabajo practico a entregar para el curso de Java de codo a codo.
 
 ### TP1 - FRONTEND
 
-### Link a la pagina del proyecto
+### Links a la pagina del proyecto
 
-[LINK NETFILY](https://ferreiro-cac-movies.netlify.app)
-[LINK GITHUB](https://ferreironicolas.github.io/TP1-front-Java-CAC/) (se ve solo el index)
+## [LINK NETFILY](https://ferreiro-cac-movies.netlify.app)
+## [LINK GITHUB](https://ferreironicolas.github.io/TP1-front-Java-CAC/) (se ve solo el index)
 
 
 # Proyecto: Sitio web Marketing digital "Bemarking"
