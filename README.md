@@ -25,7 +25,7 @@ El objetivo principal fue crear un sitio web con diversas peliculas y funciones 
 
 ***
 
-## Características
+## Características.
 
 Es un sitio que cuenta con las siguientes secciones:
 
