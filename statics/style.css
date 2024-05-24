@@ -395,6 +395,10 @@ nav ul li a {
     border-radius: 5px;
 }
 
+#api-movies {
+    margin-top: 100px;
+}
+
 
 @media (max-width: 768px) {
     .footer {
