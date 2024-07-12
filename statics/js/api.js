@@ -8,12 +8,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         const response = await fetch(`${API_SERVER}`);
         const data = await response.json();
 
-        // Limpiamos el contenido previo del contenedor
         apiMoviesContainer.innerHTML = '';
 
-        // Iteramos sobre cada película obtenida
         data.forEach(movie => {
-            // Creamos los elementos HTML para mostrar la película
+
             const pelicula = document.createElement('div');
             pelicula.classList.add('col-lg-3', 'col-md-4', 'col-sm-6', 'mb-4');
             pelicula.innerHTML = `
