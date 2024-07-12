@@ -3,7 +3,7 @@ Primer trabajo practico a entregar para el curso de Java de codo a codo.
 
 
 # CODO A CODO - FULL STACK JAVA
-## Comisión 23507
+## Comisión 23106
 
 ### TP1 - FRONTEND
 
@@ -11,6 +11,8 @@ Primer trabajo practico a entregar para el curso de Java de codo a codo.
 
 ### [LINK NETLIFY](https://ferreiro-cac-movies.netlify.app)
 ### [LINK GITHUB](https://ferreironicolas.github.io/TP1-front-Java-CAC/) (se ve solo el index)
+
+### [LINK BACKEND](https://github.com/FerreiroNicolas/JAVA_CAC_FINAL)
 
 
 # Proyecto: CAC-MOVIE
@@ -33,7 +35,5 @@ Es un sitio que cuenta con las siguientes secciones:
 + Registrarse
 + Iniciar sesion 
 
-#### Repositorio a Git-Hub
 
-[Repositorio](https://github.com/FerreiroNicolas/Pagina-CODO-A-CODO.git)
 
