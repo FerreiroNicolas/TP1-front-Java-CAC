@@ -34,7 +34,7 @@
                             <a class="nav-link link-grande seccion" href="iniciar_sesión.html">Iniciar Sesión</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link link-grande iniciar" href="api.html">Conexión API</a>
+                            <a class="nav-link link-grande iniciar" href="api.html">Catalogo API</a>
                         </li>
                     </ul>
                 </div>  
@@ -43,12 +43,16 @@
     </header>
     <main id="main" class="main">
         <section class="sectionPrincipal">
+            <video autoplay loop muted class="back-video">
+                <source src="/statics/img/videop_portada.mp4" type="video/mp4">
+                Tu navegador no soporta la etiqueta de video.
+            </video>
             <h1 class="tituloPrincipal">Películas y series ilimitadas <br> en un solo lugar</h1>
             <h2 class="subtituloPrincipal">Disfruta donde quieras. <br> Cancela en cualquier momento.</h2>
             <a class="botonRegistrarse" href="registro.html">Registrate</a>
         </section>
         <section class="buscadorPrincipal">
-            <h2 class="tituloSection">¿Qué estas buscando para ver?</h2>
+            <h2 class="titulobuscando">¿Qué estas buscando para ver?</h2>
             <form class="buscadorPeliculas">
                 <input class="inputBuscador" type="text" placeholder="Buscar..." id="buscar" name="buscar">
                 <input class="botonBuscador" type="submit" value="Buscar">
@@ -188,7 +192,7 @@
         
         <hr class="separator">
 
-        <h3 class="text-center mt-4 tituloSection">Las más aclamadas</h3>
+        <h3 class="text-center mt-4 tituloSection container">Las más aclamadas</h3>
         <section class="gallery-wrapper">
             <div class="gallery_contenido">
                 <div class="gallery-item">
