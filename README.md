@@ -14,6 +14,10 @@ Primer trabajo practico a entregar para el curso de Java de codo a codo.
 
 ### [LINK BACKEND](https://github.com/FerreiroNicolas/JAVA_CAC_FINAL)
 
+### Otros Links relacionados
+[Video Youtube](https://www.youtube.com/watch?v=QGtxNwGIyQc)
+[Drive](https://drive.google.com/drive/folders/1rttTpFnTgfdAtv0NnfVGzyG54J5dCaXU?usp=sharing)
+
 
 # Proyecto: CAC-MOVIE
 
